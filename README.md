@@ -27,7 +27,8 @@ zepto-sql-portfolio/
 ├── sql/
 │   ├── 01_setup_data_import.sql
 │   ├── 02_cleaning_and_validation.sql
-│   └── 03_business_analysis.sql
+    ├── 03_view_analytics.sql
+│   └── 04_business_analysis.sql
 ├── results/
 │   └── findings.md
 ├── README.md
