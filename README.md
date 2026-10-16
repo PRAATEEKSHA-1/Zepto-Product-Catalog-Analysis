@@ -31,7 +31,6 @@ zepto-sql-portfolio/
 ├── results/
 │   └── findings.md
 ├── README.md
-└── .gitignore
 ```
 
 ## Dataset
